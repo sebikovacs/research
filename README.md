@@ -1,5 +1,10 @@
 # Web Development Bookmarks
 
+### 10.06.2017
+- [Learning vim in four weeks](https://medium.com/@peterxjang/how-to-learn-vim-a-four-week-plan-cd8b376a9b85)
+    - tags: vim, vim tutorial, learn vim
+- [async await](https://mathiasbynens.be/notes/async-stack-traces)
+
 ### 10.04.2017
 - [Image Optimisation Techniques](https://images.guide/)
 - [Worst JavaScript Flaws That Hackers Love To Abuse](https://www.youtube.com/watch?v=0dgmeTy7X3I)
