@@ -4,6 +4,8 @@
 - [Learning vim in four weeks](https://medium.com/@peterxjang/how-to-learn-vim-a-four-week-plan-cd8b376a9b85)
     - tags: vim, vim tutorial, learn vim
 - [async await](https://mathiasbynens.be/notes/async-stack-traces)
+- [Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/)
+    - tags: imperative, declarative, programming
 
 ### 10.04.2017
 - [Image Optimisation Techniques](https://images.guide/)
